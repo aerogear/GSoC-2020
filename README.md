@@ -67,14 +67,14 @@ We officially has to list ideas in https://developer.jboss.org/wiki/GSoC2019Idea
 ideas:
 
 
-* [A Node.js library to support GraphQL Subscriptions Powered by Red Hat AMQ](subscriptions-with-amq.md)
-* [Ionic Capacitor integration with AeroGear Voyager](ionic-capacitor-integration.md)
-* [Kubernetes Operators for Unified Push Server and AeroGear Digger](operators-for-ups-and-digger.md)
-* [AeroGear Remote Configuration Service](remote-config-service.md)
-* [Conflict Resolution for AeroGear Sync Android SDK](conflict-resolution-android-sdk.md)
-* [Conflict Resolution for AeroGear Sync iOS SDK](conflict-resolution-ios-sdk.md)
-* [AeroGear Voyager Server - GraphQL community ideas](voyager-graphql-community-ideas.md)
-* [Kotlin Multi-platform SDK for Unified Push Server](ideas/kotlin-multiplatform-sdk-for-ups.md) 
+* [A Node.js library to support GraphQL Subscriptions Powered by Red Hat AMQ](./ideas/subscriptions-with-amq.md)
+* [Ionic Capacitor integration with AeroGear Voyager](./ideas/ionic-capacitor-integration.md)
+* [Kubernetes Operators for Unified Push Server and AeroGear Digger](./ideas/operators-for-ups-and-digger.md)
+* [AeroGear Remote Configuration Service](./ideas/remote-config-service.md)
+* [Conflict Resolution for AeroGear Sync Android SDK](./ideas/conflict-resolution-android-sdk.md)
+* [Conflict Resolution for AeroGear Sync iOS SDK](./ideas/conflict-resolution-ios-sdk.md)
+* [AeroGear Voyager Server - GraphQL community ideas](./ideas/voyager-graphql-community-ideas.md)
+* [Kotlin Multi-platform SDK for Unified Push Server](./ideas/kotlin-multiplatform-sdk-for-ups.md) 
 
 ## Getting started with AeroGear projects
 
