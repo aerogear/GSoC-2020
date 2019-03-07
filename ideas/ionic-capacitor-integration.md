@@ -35,6 +35,11 @@ GraphQL, Node, Ionic, Typescript, Javascript, iOS, Android
 
 https://github.com/aerogear/apollo-voyager-ionic-example 
 
+## Ask us anything
+
+All questions can be added directly in the top level issue:
+https://github.com/aerogear/ionic-showcase/issues/49
+
 ## Skill level
 
 Intermediate
