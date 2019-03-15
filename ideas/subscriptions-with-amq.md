@@ -74,7 +74,7 @@ Once you have followed some tutorials on GraphQL and gotten familiar with `voyag
 
 ## Get Red Hat AMQ Running
 
-You should try to figure out how to start the Red Hat AMQ broker on your laptop, either Apache Artemis or using the Red Hat AMQ product. Take a look at the various Red Hat AMQ docs.
+You should try to figure out how to start the Red Hat AMQ broker on your local machine, either Apache Artemis or using the Red Hat AMQ product. Take a look at the various Red Hat AMQ docs.
 
 * Red Hat AMQ broker getting started docs: https://access.redhat.com/documentation/en-us/red_hat_amq/7.2/html/using_amq_broker/
 * Publish Subscribe messaging: https://access.redhat.com/documentation/en-us/red_hat_amq/7.2/html/using_amq_broker/addresses#configuring_publish_subscribe_messaging
