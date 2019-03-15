@@ -100,4 +100,4 @@ If you have managed to get a decent grasp of GraphQL, GraphQL subscriptions, and
 * What tools/libraries could I use together to make this as simple as possible?
 * How could I test my implementation to ensure it works properly?
 
-You don't need to have complete, detailed answers to these questions, but you should start to get some idea of what is needed. Or perhaps you won't know the answers, but you will begin to understand how to break these questions down so you can find the answers.
+You don't need to have complete, detailed answers to these questions and there isn't one right answer, but you should start to get some idea of what is needed. Or perhaps you won't know the answers, but you will begin to understand how to break these questions down so you can find the answers.
