@@ -35,3 +35,7 @@ See [parent page](../README.md) for more information
 * Get familiar with AeroGear Digger: https://github.com/aerogear/aerogear-digger
 * Try running AeroGear Digger on your own OpenShift cluster
 * Get familiar with Operator Framework: https://github.com/operator-framework
+
+## Next step
+
+* Create a simple operator. Example: an operator that can managed the number of pods of a service.
