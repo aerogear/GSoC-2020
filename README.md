@@ -8,7 +8,7 @@ This repository contains some information around GSoC 2019 at AeroGear organizat
 
 AeroGear is part of JBoss by Red Hat.
 
-For all JBoss ideas and further GSoC information at JBoss, visit <https://developer.jboss.org/wiki/GSoC2019Ideas>.
+For all JBoss ideas and further GSoC information at JBoss, visit <https://developer.jboss.org/wiki/GSoC2020Ideas>.
 
 
 ## GSoC general information
@@ -38,7 +38,7 @@ Mailing list is the best option to engage with the community. We like offline co
 For quick queries, you can also use the IRC channel however there is no guarantee that you will get an answer immediately.
 
 We would prefer open communication via the mailing list instead of private communication. For example, if you have a question about an idea
-listed in the [ideas page](https://developer.jboss.org/wiki/GSoC2019Ideas), please send a mail to the mailing list instead of contacting
+listed in the [ideas page](https://developer.jboss.org/wiki/GSoC2020Ideas), please send a mail to the mailing list instead of contacting
 the listed mentor privately.
 
 Also, in general, we would be happy to try help you in any way we can, but you will need to provide some good information. Think of it like opening a 
@@ -63,7 +63,7 @@ Here are some things we would expect from you during the coding in the summer:
 
 ## Ideas
 
-We officially has to list ideas in https://developer.jboss.org/wiki/GSoC2019Ideas however, we would like to give more information about these
+We officially has to list ideas in https://developer.jboss.org/wiki/GSoC2020Ideas however, we would like to give more information about these
 ideas:
 
 
