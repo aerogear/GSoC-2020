@@ -1,10 +1,10 @@
-AeroGear Google Summer of Code 2019
+AeroGear Google Summer of Code 2020
 ===================================
 
 
 ## AeroGear organization
 
-This repository contains some information around GSoC 2019 at AeroGear organization.
+This repository contains some information around GSoC 2020 at AeroGear organization.
 
 AeroGear is part of JBoss by Red Hat.
 
@@ -13,7 +13,7 @@ For all JBoss ideas and further GSoC information at JBoss, visit <https://develo
 
 ## GSoC general information
 
-Google's timeline for GSoC 2019 is here: <https://developers.google.com/open-source/gsoc/timeline>
+Google's timeline for GSoC 2020 is here: <https://developers.google.com/open-source/gsoc/timeline>
 
 Please note that student application period starts on 25th March and ends on 9th April.
 
