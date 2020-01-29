@@ -63,18 +63,7 @@ Here are some things we would expect from you during the coding in the summer:
 
 ## Ideas
 
-We officially has to list ideas in https://developer.jboss.org/wiki/GSoC2020Ideas however, we would like to give more information about these
-ideas:
-
-
-* [A Node.js library to support GraphQL Subscriptions Powered by Red Hat AMQ](./ideas/subscriptions-with-amq.md)
-* [Ionic Capacitor integration with AeroGear Voyager](./ideas/ionic-capacitor-integration.md)
-* [Kubernetes Operators for Unified Push Server and AeroGear Digger](./ideas/operators-for-ups-and-digger.md)
-* [AeroGear Remote Configuration Service](./ideas/remote-config-service.md)
-* [Conflict Resolution for AeroGear Sync Android SDK](./ideas/conflict-resolution-android-sdk.md)
-* [Conflict Resolution for AeroGear Sync iOS SDK](./ideas/conflict-resolution-ios-sdk.md)
-* [AeroGear Voyager Server - GraphQL community ideas](./ideas/voyager-graphql-community-ideas.md)
-* [Kotlin Multi-platform SDK for Unified Push Server](./ideas/kotlin-multiplatform-sdk-for-ups.md) 
+We officially has to list ideas in https://docs.jboss.org/display/GSOC/Google+Summer+of+Code+2020+ideas
 
 ## Getting started with AeroGear projects
 
@@ -82,13 +71,9 @@ Our recommendation is:
 
 1. Get used to the technologies listed in the idea pages (listed above) for your idea
 2. Go through the READMEs of the AeroGear project(s) you're interested in and install, configure and run them on your machine
-3. Try fixing a bug of impelementing a small feature listed for that project in JIRA or in Github issues. You can contact the 
+See projects we maintain: https://github.com/aerogear/graphql-home
+3. Try fixing a bug of impelementing a small feature listed for that project in Github issues. You can contact the 
    community via the mailing list to ask for these if you can't find any. 
-
-AeroGear projects use JIRA for backlog management: <https://issues.jboss.org/projects/AEROGEAR>
-
-[This filter](https://issues.jboss.org/issues/?filter=-5&jql=project%20%3D%20AEROGEAR%20AND%20status%20%3D%20Open%20AND%20resolution%20%3D%20Unresolved%20AND%20labels%20%3D%20team-service-2%20order%20by%20priority%20DESC%2Cupdated%20DESC)
-shows the filtered backlog that the AeroGear team is currently working on or is going to work on in the near future.
 
 We also use Github issues for community reported issues. For example Voyager server has some [issues](https://github.com/aerogear/voyager-server/issues) open at the time of writing this document. 
 
@@ -96,10 +81,5 @@ We also use Github issues for community reported issues. For example Voyager ser
 
 Mailing list: <https://groups.google.com/forum/#!forum/aerogear>
 
-IRC channel: `#aerogear` at freenode.org
-
-AeroGear organization website: <https://aerogear.org>
-
-AeroGear docs - LATEST: <https://docs.aerogear.org/aerogear/latest/getting-started.html>
- 
+Chat: https://discord.gg/mJ7j84m
 
