@@ -38,8 +38,7 @@ Mailing list is the best option to engage with the community. We like offline co
 For quick queries, you can also use the IRC channel however there is no guarantee that you will get an answer immediately.
 
 We would prefer open communication via the mailing list instead of private communication. For example, if you have a question about an idea
-listed in the [ideas page](https://developer.jboss.org/wiki/GSoC2020Ideas), please send a mail to the mailing list instead of contacting
-the listed mentor privately.
+listed in the [ideas page](https://developer.jboss.org/wiki/GSoC2020Ideas), please send a mail to the mailing list instead of contacting the listed mentor privately.
 
 Also, in general, we would be happy to try help you in any way we can, but you will need to provide some good information. Think of it like opening a 
 Github issue. The more information you can provide us with, the more likely someone will be able to help you. 
@@ -75,7 +74,7 @@ See projects we maintain: https://github.com/aerogear/graphql-home
 3. Try fixing a bug of impelementing a small feature listed for that project in Github issues. You can contact the 
    community via the mailing list to ask for these if you can't find any. 
 
-We also use Github issues for community reported issues. For example Voyager server has some [issues](https://github.com/aerogear/voyager-server/issues) open at the time of writing this document. 
+We also use Github issues for community reported issues. For example Graphback has some [issues](https://github.com/aerogear/graphback/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22good+first+issue%22) open at the time of writing this document. 
 
 ## Contact
 
